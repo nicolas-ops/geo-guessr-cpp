@@ -1,6 +1,6 @@
 # Terminal GeoGuessr
 
-A , terminal-based GeoGuessr clone written in C++. This project renders maps and polygons directly in the console and calculates spatial distances to let players guess locations.
+A terminal-based GeoGuessr clone written in C++. This project renders maps and polygons directly in the console and calculates spatial distances to let players guess locations.
 
 ## Features
 
