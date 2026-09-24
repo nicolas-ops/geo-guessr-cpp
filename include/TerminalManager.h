@@ -1,4 +1,4 @@
-//Copyright (c) 2026 Nicolas Romanov. All Rights Reserved.
+// Copyright (c) 2026 Nicolas Romanov. All Rights Reserved.
 
 #pragma once
 
