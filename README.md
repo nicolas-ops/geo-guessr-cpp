@@ -29,11 +29,11 @@ The project includes a `Makefile` for easy building. Run the following commands 
 ```bash
 make
 ```
-**2. Run the game
+**1. Run the game**
 ```bash
 ./GeoGuessrMain <dataset-filepath>
 ```
 # Academic Integrity & Datasets
-**Note: This project was originally developed as part of a computer science course at the University of Freiburg. To comply with academic guidelines and copyright policies, all proprietary university datasets and specific evaluation classes have been excluded from this public repository.
+**Note:** This project was originally developed as part of a computer science course at the University of Freiburg. To comply with academic guidelines and copyright policies, all proprietary university datasets and specific evaluation classes have been excluded from this public repository.
 
 The repository includes independent, clean-room mock implementations (e.g., `MockTerminalManager`) and synthetic dummy datasets so the code builds and tests run successfully out-of-the-box.
